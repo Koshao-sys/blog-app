@@ -87,6 +87,7 @@ After you're finished please remove all the comments and instructions!
 - **Model Classes**
 - **Unit Tests** 
 - **Controllers**
+- **Controller tests**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
