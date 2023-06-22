@@ -38,25 +38,20 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-    <!--- [🚀 Live Demo](#live-demo)-->
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-    <!--- [Usage](#usage)-->
-    <!--- [Run tests](#run-tests)
-  - [Deployment](#deployment)-->
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Blog App\] ](#-blog-app-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack .](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -193,6 +188,12 @@ Example:
 - GitHub: [@gKoshao-sys](https://github.com/Koshao-sys/)
 - Twitter: [@KoshaoKG](https://twitter.com/KoshaoKG)
 - LinkedIn: [koshaokazungu](https://www.linkedin.com/in/koshaokazungu/)
+
+👤 **Muhammad Nafees**
+
+- GitHub: [@ngeelani48](https://github.com/ngeelani48)
+- Twitter: [@twitterhandle](https://twitter.com/ngeelani48)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-nafees/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
