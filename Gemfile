@@ -77,3 +77,7 @@ end
 group :development, :test do
   gem 'rspec-rails'
 end
+
+gem 'devise', '~> 4.9'
+
+gem 'will_paginate'
